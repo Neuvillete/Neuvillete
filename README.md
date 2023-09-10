@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C/C++ and Javascript Frameworks.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZhongliSenpai](https://github.com/ZhongliSenpai)
+- 👨‍💻 All of my projects are available at [https://github.com/ZhongliSenpai](https://github.com/Neuvillete)
 
 - 📝 I regularly write articles on [akumakami.hashnode.dev](akumakami.hashnode.dev)
 
