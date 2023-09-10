@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Chowdhury</h1>
-<h3 align="center">BCA student, Bangalore.</h3>
+<h3 align="center">BCA student, Dheradun.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhonglisenpai&label=Profile%20views&color=0e75b6&style=flat" alt="zhonglisenpai" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C/C++ and Javascript Frameworks.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZhongliSenpai](https://github.com/Neuvillete)
+- 👨‍💻 All of my projects are available at [https://github.com/Neuvillete](https://github.com/Neuvillete)
 
 - 📝 I regularly write articles on [akumakami.hashnode.dev](akumakami.hashnode.dev)
 
